@@ -1,5 +1,5 @@
 # LIMPA-TELA para o letras.mus.br
-**Função:** Script que remove 80% de toda a página da letra de música, restando somente o título, cantor e letra.
+**Função:** Remover 80% de toda a página da letra da música, restando somente o título, cantor e letra.
 **Objetivo:** Apresentar a letra como se fosse um "slide".
 
 
