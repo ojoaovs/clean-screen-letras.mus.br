@@ -26,3 +26,7 @@ Depois de Instalado:
 
 
 Observação: Caso tenham alguma sugestão ou problemas com o código, peço que informem. Grato.
+
+
+# RESULTADO 
+<img src="https://i.imgur.com/8niVa7S.png">
